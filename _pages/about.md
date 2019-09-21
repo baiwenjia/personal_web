@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
+title: <strong>Wenjia Bai</strong> Name
 description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -15,6 +15,8 @@ profile:
 news: true
 social: true
 ---
+
+Wenjia is a lecturer jointly at Data Science Institute and Department of Medicine, Imperial College London. His research focuses on developing novel image computing and machine learning algorithms for medical image analysis and applying the algorithms to clinical research. Currently, he is actively involved in the UK Biobank Imaging Study and UK Digital Heart Project.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
