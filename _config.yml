@@ -1,37 +1,37 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name:  Wenjia Bai
-email: you@example.com
-description: > # this means to ignore newlines until "url:"
+name:    Wenjia Bai
+# email: you@example.com
+description: >
   Wenjia Bai's website.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-url:          # the base hostname & protocol for your site
-baseurl: "https://www.doc.ic.ac.uk/~wbai/jekyll"
+url:     # the base hostname & protocol for your site
+baseurl: "https://www.doc.ic.ac.uk/~wbai/web2"
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username:             # your GitHub user name
+github_username: baiwenjia   # your GitHub user name
 twitter_username: WenjiaBai  # your Twitter handle
-linkedin_username:           # your LinkedIn user name
+linkedin_username: wenjia-bai-71294a1b # your LinkedIn user name
 scholar_userid: IA1QFM4AAAAJ # your Google Scholar ID
 orcid_id:                    # your ORCID ID
 medium_username:             # your Medium username
 quora_username:              # your Quora username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  TODO: Space for a contact note.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
+blog_name: Wenjia Bai
 blog_description: a simple whitespace theme for academics
 
 # Pagination

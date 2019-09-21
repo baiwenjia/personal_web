@@ -1,12 +1,13 @@
 ---
 layout: about
 permalink: /
-title: <strong>Wenjia Bai</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Wenjia Bai</strong>
+description: Lecturer in Artificial Intelligence in Medicine,
+  <a href="http://www.imperial.ac.uk">Imperial College London</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Wenjia_Bai_2016_Crop.jpg
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
@@ -16,9 +17,7 @@ news: true
 social: true
 ---
 
-Wenjia is a lecturer jointly at Data Science Institute and Department of Medicine, Imperial College London. His research focuses on developing novel image computing and machine learning algorithms for medical image analysis and applying the algorithms to clinical research. Currently, he is actively involved in the UK Biobank Imaging Study and UK Digital Heart Project.
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Wenjia is a lecturer jointly at Data Science Institute and Department of Brain Sciences, Imperial College London. His research focuses on developing novel image computing and machine learning algorithms for medical image analysis and healthcare research.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
